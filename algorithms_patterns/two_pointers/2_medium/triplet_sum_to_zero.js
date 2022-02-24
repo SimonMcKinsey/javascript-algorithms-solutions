@@ -4,6 +4,7 @@
 
 function search_triplets(arr) {
   const triplets = [];
+  arr = arr.sort();
 
   return triplets;
 }
